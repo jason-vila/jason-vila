@@ -1,6 +1,6 @@
 # Hi! I'm Jason Vila  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm a **web developer** passionate about **design and web layout**. I pay close attention to detail and love learning new things.  
+I am a **web developer** in training, passionate about **web design and layout**. I pay a lot of attention to details and I love learning new things.
 
 ## 🚀 Technologies & Tools  
 ### Languages & Frameworks  
