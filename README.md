@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Jason Vila  
 
-<!--
-**Jason-Vila/Jason-Vila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **web developer** passionate about **design and web layout**. I pay close attention to detail and love learning new things.  
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools  
+💻 Java, C#, .NET, JavaScript, React, jQuery  
+🎨 HTML, CSS, Bootstrap  
+🗄️ SQL, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonVila&show_icons=true&theme=github_dark)
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-vila-a5a054311)  
+
+---
+*"Passion for design, precision in detail, and a constant thirst for learning."*  
