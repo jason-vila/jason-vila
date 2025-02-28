@@ -16,9 +16,3 @@ I am a **web developer** in training, passionate about **web design and layout**
 
 ## 📊 GitHub Stats  
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonVila&show_icons=true&theme=github_dark)
-
-## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-vila-a5a054311)  
-
----
-*"Passion for design, precision in detail, and a constant thirst for learning."*
