@@ -15,4 +15,4 @@ I am a **web developer** in training, passionate about **web design and layout**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## 📊 GitHub Stats  
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonVila&show_icons=true&theme=github_dark)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-vila&show_icons=true&theme=github_dark)
