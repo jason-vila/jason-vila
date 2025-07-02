@@ -19,9 +19,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jason-vila&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jason-vila&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jason-vila&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
