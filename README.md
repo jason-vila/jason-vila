@@ -14,9 +14,3 @@
     📸 <a href="https://www.instagram.com/sw_jasonn">Instagram</a>
   </samp>
 </div>
-
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jason-vila&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
